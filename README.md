@@ -6,6 +6,9 @@ Set up
 
 1. You'll need to install [Tampermonkey](http://tampermonkey.net/) on your browser. There are other plug-ins that do the same, this is the one I like.
 2. Install the [script](http://userscripts.org/scripts/show/186151)
+3. This step is very important.
+You'll see that the script on line 6 has "// @match       https://www.facebook.com/your-custom-url"
+Replace the last part of that with your actual Facebook url.
 
 Description
 -----------
