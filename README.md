@@ -19,5 +19,4 @@ To Do
 -----------
 
 - Make it only 'like' posts matching some string, for example 'happy birthday'
-- Need to clean up code
 - I've only tested on Chrome on Windows.
