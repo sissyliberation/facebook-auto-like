@@ -3,7 +3,7 @@
 // @namespace  	https://github.com/yvescourtois/facebook-auto-like
 // @version    	3.1
 // @description will like every post on your wall
-// @match       https://www.facebook.com/courtois1337
+// @match       https://www.facebook.com/your-custom-url
 // @copyright  	none
 // @require 	http://code.jquery.com/jquery-latest.js
 // @owner 		Yves Courtois
