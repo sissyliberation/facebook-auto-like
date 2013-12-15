@@ -9,6 +9,7 @@ Set up
 3. This step is very important.
 You'll see that the script on line 6 has "// @match       https://www.facebook.com/your-custom-url"
 Replace the last part of that with your actual Facebook url.
+4. In the 'find' array, insert what you want to search for, if anything
 
 Description
 -----------
